@@ -1,0 +1,25 @@
+--CREATING A NEW REPOSITORY--
+
+username : CoopRepository
+password : Doctorcare5
+
+1. make a new folder in This PC - Local Disk - Users - User
+2. Name it the same as gitHub repository
+
+create file
+
+3. git add .
+4. git commit -m "(your discription)"
+5. git remote add origin https://github.com/CoopRepository/(folder name).git
+6. git push origin master
+
+--UPLOADING TO GIT--
+
+1. git add .
+2. git commit -m "(your discription)"
+3. git push origin master
+
+--CLONING A REPOSITORY--
+asdf
+
+1. git clone https://github.com/CoopRepository/(folder name).git
